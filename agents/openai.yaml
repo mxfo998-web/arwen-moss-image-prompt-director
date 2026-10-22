@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arwen · MOSS Image 提示词导演"
+  short_description: "为 MOSS-Image 编写提示词，默认中文、复杂场景中英双版，支持海报与影视布局"
+  default_prompt: "使用 $arwen-moss-image-prompt-director，把我的画面想法写成提示词；默认中文，复杂场景给中英双版，需要控制位置时输出可直接使用的 Layout JSON。"

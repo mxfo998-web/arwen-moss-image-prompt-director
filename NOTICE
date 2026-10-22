@@ -1,0 +1,18 @@
+Arwen MOSS-Image Prompt Director
+
+This skill includes scripts/compile_prompt.py, unchanged, from:
+OpenMOSS/MOSS-Image
+https://github.com/OpenMOSS/MOSS-Image
+Revision: 52b87fca23acedc399d062d593bec388aee9926a
+Path: skills/moss-image-prompt-enhancer/scripts/compile_prompt.py
+
+The upstream compiler and the included LICENSE are provided under
+the Apache License, Version 2.0. Copyright and attribution belong
+to the upstream project and its contributors.
+
+The Chinese skill instructions, reference organization, validation
+wrapper, tests, and original example prompts are additions prepared
+for this skill. The package uses Apache-2.0.
+
+This is a custom integration, not an official OpenMOSS release.
+No Moeblack rule text or third-party reference images are bundled.

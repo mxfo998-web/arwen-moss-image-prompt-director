@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/OpenMOSS/MOSS-Image",
+  "revision": "52b87fca23acedc399d062d593bec388aee9926a",
+  "retrieved": "2026-10-22",
+  "files": [
+    {
+      "path": "skills/moss-image-prompt-enhancer/scripts/compile_prompt.py",
+      "local": "compile_prompt.py",
+      "sha256": "1d75780cf9f22f9ebed1a33d8100158f8d73ebfe59a5d435c1cc8c8e1374a8a3"
+    },
+    {
+      "path": "LICENSE",
+      "local": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    }
+  ]
+}
